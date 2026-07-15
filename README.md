@@ -22,5 +22,5 @@ Build a professional cybersecurity portfolio through hands-on labs and real-worl
 - CompTIA Security+ (in progress)
 
 ## Connect with Me
-- LinkedIn: [](https://www.linkedin.com/in/gambo-aminu-2b58a3205/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmvMjQbO4Rna6E1W5ONrDOg%3D%3D)
+- LinkedIn: [Click for LinkedIn profile](https://www.linkedin.com/in/gambo-aminu-2b58a3205/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmvMjQbO4Rna6E1W5ONrDOg%3D%3D)
 - Email: adminu001@gmail.com
